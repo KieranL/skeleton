@@ -10,9 +10,9 @@ jobs:
     strategy:
       matrix:
         platform: 
-          -name: Linux
+        - name: Linux
           file: game
-          -name: Windows Desktop
+        - name: Windows Desktop
           file: game.exe
     steps:
       - uses: actions/checkout@v2
