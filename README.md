@@ -1,3 +1,5 @@
+[![Build Godot Project](https://github.com/KieranL/skeleton/actions/workflows/build.yml/badge.svg)](https://github.com/KieranL/skeleton/actions/workflows/build.yml)
+
 # Skeleton2D Demo
 
 This demo shows how to create a rigged and animated character in 2D using
